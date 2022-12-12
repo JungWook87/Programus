@@ -6,8 +6,8 @@ public class 옹알이실행 {
 	
 		옹알이 st = new 옹알이();
 		
-		String[] bab = {"ayaye", "uuuma", "ye", "yemawoo", "ayaa"};
-		int result = st.solution(bab);
+		//String[] bab = {"ayaye", "uuuma", "ye", "yemawoo", "ayaa"};
+		int result = st.solution(new String[]{"ayaye", "uuuma", "ye", "yemawoo", "ayaa"});
 		System.out.println(result);
 	}
 
